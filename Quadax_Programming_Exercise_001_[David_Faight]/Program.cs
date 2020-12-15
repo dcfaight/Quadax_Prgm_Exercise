@@ -36,7 +36,7 @@ namespace Quadax_Programming_Exercise_001__David_Faight_
                     if (rndDgt[r] == rndDgt[s] && r!=s) 
                     {
                         rndDgt[r] = rnd.Next(1, 7);
-                        s++;
+                        s=3; //s=3 last number sometimes gets duplicated
                     }
                 }//end s for loop
             }//end r for loop
