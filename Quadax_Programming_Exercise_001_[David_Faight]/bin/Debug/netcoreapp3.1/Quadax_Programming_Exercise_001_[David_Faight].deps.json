@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quadax_Programming_Exercise_001_[David_Faight]/1.0.0": {
+        "runtime": {
+          "Quadax_Programming_Exercise_001_[David_Faight].dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quadax_Programming_Exercise_001_[David_Faight]/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

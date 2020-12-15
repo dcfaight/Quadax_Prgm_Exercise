@@ -1,0 +1,11 @@
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\bin\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].exe
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\bin\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].deps.json
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\bin\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].runtimeconfig.json
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\bin\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].runtimeconfig.dev.json
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\bin\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].dll
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\bin\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].pdb
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\obj\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].csprojAssemblyReference.cache
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\obj\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].AssemblyInfoInputs.cache
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\obj\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].AssemblyInfo.cs
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\obj\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].dll
+C:\Users\dcfei\source\repos\Quadax_Programming_Exercise_001_[David_Faight]\Quadax_Programming_Exercise_001_[David_Faight]\obj\Debug\netcoreapp3.1\Quadax_Programming_Exercise_001_[David_Faight].pdb
